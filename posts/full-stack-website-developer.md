@@ -22,17 +22,15 @@ Full-Stack developer adalah seseorang yang merangkap tugas sebagai pengembang Fr
 
 ⭕ Mengembangkan website yang meliputi seluruh proses: pembuatan tampilan yang berugan (UI/UX),fitur, strukture model data dan keamanan
 
-
-
 ## **Most Used Tools**
 
 Beberapa yang sering digunakan 
 
 **Visual studio**
 
-![](https://buildwithangga.com/storage/assets/images/tools/logo_vs_code_buildwithangga.png) 
+![](/static/img/visual-studio-code-microsoft-visual-studio-source-code-editor-png-favpng-q4dwzmnaeksim8mq0vfqwxkc9_t.jpg)
 
-## **Required Skills** 
+## **Required Skills**
 
 Biasanya dibutuhkan saat lamar kerja
 
