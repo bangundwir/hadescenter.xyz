@@ -26,9 +26,17 @@ Full-Stack developer adalah seseorang yang merangkap tugas sebagai pengembang Fr
 
 Beberapa yang sering digunakan 
 
-**Visual studio**
+**Visual Studio**
 
-![](/static/img/visual-studio-code-microsoft-visual-studio-source-code-editor-png-favpng-q4dwzmnaeksim8mq0vfqwxkc9_t.jpg)
+**Zeplin** 
+
+**InVision App**
+
+**Github**
+
+**Pingdom**
+
+**Nginx**
 
 ## **Required Skills**
 
