@@ -103,6 +103,10 @@ startx
 reboot
 ```
 
+```
+sudo apt install i3lock imagemagick feh fonts-font-awesome
+```
+
 
 
 ## VboxInstallGuest
