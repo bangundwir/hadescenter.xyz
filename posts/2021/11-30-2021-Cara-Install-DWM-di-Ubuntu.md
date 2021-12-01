@@ -20,6 +20,11 @@ sudo apt install build-essential libx11-dev libxinerama-dev sharutils libxft-dev
 sudo apt install git vim xorg xserver-xorg linux-headers-$(uname -r) firmware-linux-free mesa-utils wget curl build-essential i3lock imagemagick feh fonts-font-awesome
 ```
 
+```bash
+sudo apt install libxft-dev libxineram
+a-dev libx11-dev
+```
+
 
 
 ```bash
