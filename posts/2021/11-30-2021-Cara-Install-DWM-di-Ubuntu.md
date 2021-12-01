@@ -17,6 +17,12 @@ sudo apt install build-essential libx11-dev libxinerama-dev sharutils libxft-dev
 ```
 
 ```bash
+sudo apt install git vim xorg xserver-xorg linux-headers-$(uname -r) firmware-linux-free mesa-utils wget curl build-essential i3lock imagemagick feh fonts-font-awesome
+```
+
+
+
+```bash
 cd .config/
 ```
 
@@ -33,7 +39,7 @@ sudo apt install git wget vim curl
 ```
 
 ```bash
-git clone https:/git.suckless.org/dwm
+git clone git://git.suckless.org/dwm
 ```
 
 ```bash
@@ -121,6 +127,10 @@ feh --bg-scale wallpaper.jpg
 xrandr -s 1440x900
 ```
 
+```
+sudo apt install compton -y
+```
+
 
 
 ## VboxInstallGuest
@@ -166,7 +176,34 @@ output
 lsmod | grep vboxguest
 ```
 
+### DEBIAN 11 SUDO
 
+```
+su root
+```
+
+- sudo = Work with root rights
+- usermod = changes a user account
+- -aG = –append (adds the user to further groups), G = –groups (groups)
+
+```
+usermod -aG {Group} {Username}
+==Contoh==
+usermod -aG sudo hades
+```
+
+#### Cara 2
+
+```
+nano /etc/sudoers
+
+username ALL=(ALL:ALL) ALL
+
+hades ALL=(ALL:ALL) ALL
+
+```
+
+![add users to sudoers group in Debian 11](https://www.how2shout.com/linux/wp-content/uploads/2021/08/add-users-to-sudoers-group-in-Debian-11.png)
 
 [^referensi]: [DWM Install on Minimal Version of Ubuntu Linux - No Bloat! Dynamic Window Manager - YouTube](https://www.youtube.com/watch?v=lipHPQL4nmQ)
 
