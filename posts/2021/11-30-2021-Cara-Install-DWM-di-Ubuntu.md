@@ -103,8 +103,22 @@ startx
 reboot
 ```
 
-```
+```bash
 sudo apt install i3lock imagemagick feh fonts-font-awesome
+```
+
+
+
+#### Setting Backgroud
+
+```bash
+feh --bg-scale wallpaper.jpg
+```
+
+#### Resolution Screen
+
+```bash
+xrandr -s 1440x900
 ```
 
 
