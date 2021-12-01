@@ -180,6 +180,8 @@ lsmod | grep vboxguest
 
 ```
 su root
+
+apt install sudo
 ```
 
 - sudo = Work with root rights
