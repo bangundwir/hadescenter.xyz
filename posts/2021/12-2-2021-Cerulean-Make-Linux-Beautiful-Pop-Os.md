@@ -5,6 +5,7 @@ author: Anonymouse
 summary: Cerulean - Make Linux Beautiful
 tags:
   - Tips
+  - Linux
 
 
 
