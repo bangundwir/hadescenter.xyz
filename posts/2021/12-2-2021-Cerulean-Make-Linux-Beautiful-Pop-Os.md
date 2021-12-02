@@ -1,11 +1,10 @@
 ---
 title: Cerulean - Make Linux Beautiful | Pop! OS | BSPWM 🐱‍🚀
-date: 2021-12-2
+date: 2021-12-02
 author: Anonymouse
 summary: Cerulean - Make Linux Beautiful
 tags:
   - Tips
-  - Linux
 
 
 
