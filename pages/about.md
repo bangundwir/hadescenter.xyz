@@ -8,16 +8,16 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Tentang Hendra Bangun
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+Saya dilahirkan dengan nama Jawa yang artinya membangun. Karena saya berusaha menjadi seorang anak yang baik, saya tidak pernah protes sampai hari ini.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+Saya dilahirkan dari rahim seorang ibu yang sangat hebat, yang melakukan apapun untuk terus menghidupi anak-anaknya. Walaupun ibu saya adalah seseorang yang sangat hebat, tapi sifat dan kepribadian saya lebih banyak mengikuti ayah dan kakak saya.
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+Saya adalah tipe orang yang sangat memperhatikan setiap pekerjaan yang saya kerjakan, bisa dikatakan saya adalah tipe orang yang perfeksionis. Tapi perfeksionis hanya saya terapkan dengan segala sesuatu yang berhubungan dengan pekerjaan. Kalau di dalam kehidupan sehari-hari, saya adalah tipe orang yang berantakan, dalam segala hal.
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+Saat ini saya merupakan seorang *Web Development* dan suka dengan bidang security
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+Ketertarikan utama saya adalah segala sesuatu yang berhubungan dengan *security* dan web development. Karena ketertarikan tersebut, seringkali saya menghabiskan waktu yang saya miliki hanya untuk membaca tentang perkembangan yang terjadi setiap harinya dan sesekali mencoba langsung jika itu adalah sesuatu yang berhubungan dengan *security dan web development*  .
 
 ![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
